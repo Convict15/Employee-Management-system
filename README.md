@@ -10,7 +10,7 @@ Javascript, React, Context Api, Tailwind css and Local Storage handling...
 Clone the project
 
 ```bash
-  https://github.com/malhotraarshdeepsingh/Employee-Management-System
+  https://github.com/Convict15-System
 ```
 
 Go to the project directory
@@ -36,9 +36,7 @@ Start the server
 
 You can find login credentials in localStorage.jsx to test the project.
 
-[Create Task](./demo/CreateTask.mp4)
-[Forward Task](./demo/ForwardTask.mp4)
-[Change Task Status](./demo/StausUpdate.mp4)
+
 
 ## Features
 - Admin and user roles with distinct privileges
