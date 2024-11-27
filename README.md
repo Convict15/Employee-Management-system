@@ -10,7 +10,7 @@ Javascript, React, Context Api, Tailwind css and Local Storage handling...
 Clone the project
 
 ```bash
-  https://github.com/Convict15-System
+  https://github.com/Convict15-Employee_Management-System
 ```
 
 Go to the project directory
