@@ -32,9 +32,7 @@ Start the server
 ```
 
 
-## Demo Videos
 
-You can find login credentials in localStorage.jsx to test the project.
 
 
 
